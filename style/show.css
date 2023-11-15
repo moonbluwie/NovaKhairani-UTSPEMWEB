@@ -1,0 +1,93 @@
+/* show.css */
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #342319;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.content {
+    background-color: #ba8573;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: #342319;
+    margin-bottom: 20px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 20px;
+}
+
+th, td {
+    border: 1px solid #fff;
+    padding: 8px;
+    text-align: left;
+    color: #fff;
+}
+
+th {
+    background-color: #342319;
+}
+
+tbody tr:nth-child(even) {
+    background-color: #342319;
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+    margin-right: 10px;
+    text-align: center;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a.download-link,
+a.edit-link,
+a.delete-link {
+    display: inline-block;
+    margin-right: 5px;
+    padding: 5px 10px;
+    border-radius: 3px;
+    color: #fff;
+}
+
+a.download-link {
+    background-color: #fff;
+}
+
+a.download-link:hover {
+    background-color: #fff;
+}
+
+a.edit-link {
+    background-color: #fff;
+}
+
+a.edit-link:hover {
+    background-color: #fff;
+}
+
+a.delete-link {
+    background-color: #fff;
+}
+
+a.delete-link:hover {
+    background-color: #fff;
+}
