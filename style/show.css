@@ -41,6 +41,7 @@ th, td {
 
 th {
     background-color: #342319;
+    color: #fff;
 }
 
 tbody tr:nth-child(even) {
@@ -58,26 +59,28 @@ a:hover {
     text-decoration: underline;
 }
 
-a.download-link,
-a.edit-link,
-a.delete-link {
-    display: inline-block;
-    margin-right: 5px;
-    padding: 5px 10px;
-    border-radius: 3px;
-    color: #fff;
-}
-
 a.download-link {
     background-color: #fff;
+    color: #fff;
+    padding: 5px 10px;
+    border-radius: 3px;
 }
 
 a.download-link:hover {
     background-color: #fff;
 }
 
+a.edit-link,
+a.delete-link {
+    display: inline-block;
+    margin-right: 5px;
+    padding: 5px 10px;
+    border-radius: 3px;
+}
+
 a.edit-link {
     background-color: #fff;
+    color: #fff;
 }
 
 a.edit-link:hover {
@@ -86,6 +89,7 @@ a.edit-link:hover {
 
 a.delete-link {
     background-color: #fff;
+    color: #fff;
 }
 
 a.delete-link:hover {

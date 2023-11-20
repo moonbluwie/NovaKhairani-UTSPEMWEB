@@ -1,0 +1,23 @@
+Jawaban no. 1
+Secara sederhana, "framework" dalam pengembangan aplikasi bisa diibaratkan sebagai kerangka atau struktur dasar yang telah disiapkan 
+sebelumnya untuk membantu pengembang membangun aplikasi tanpa perlu membuat segalanya dari awal.
+Jadi, secara umum, framework adalah alat bantu/template/blueprint pengembangan yang menyediakan fondasi dan aturan-aturan agar 
+pengembangan aplikasi menjadi lebih efisien dan terstruktur.
+
+Jawaban no. 2
+1. Sebutkan tema proyek yang sedang digarap!
+    Jawab: Koperasi Simpan Pinjam
+2. Sebutkan anggota dari proyek yang sedang digarap, berikut dengan jobdesk dari masing-masing anggota!
+    Jawab: 1. Nova Puspita Khairani (22416255201209): Membuat UML dan menyusun laporan
+           2. Farah Amany Zahra (22416255201210): Merancang database
+           3. Astri Agustiyani (22416255201008): Membuat web
+3. Jelaskan permasalahan yang didapat setelah hasil wawancara dengan client, beserta hipotesa solusi yang kalian usung!
+   (jelaskan dengan bahasa yang mudah dimengerti, bukan secara harfiah/istilah)
+    Jawab: 
+        Permasalahan:
+            1. Admin masih memasukkan data anggota secara manual menggunakan excel
+            2. Anggota masih harus datang ke kantor untuk mengajukan pinjaman
+        Solusi:
+            1. Admin dibuatkan fitur rekap data yang menampilkan data anggota koperasi yang terdaftar
+            2. Anggota dibuatkan fitur pengajuan pinjaman, 
+               sehingga anggota hanya perlu datang ke kantor membawa persyaratan jika ajuan peminjaman diterima.

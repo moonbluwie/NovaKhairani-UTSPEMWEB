@@ -33,7 +33,7 @@
                     <td><?=$row['name'];?></td>
                     <td><?=$row['price'];?></td>
                     <!-- <td><img src="<?=$row['image'];?>" width="100"></td> -->
-                    <td><a href="unduh.php<?=$row['image'];?>" target="_blank">unduh</a></td>
+                    <td><a href="unduh.php/..<?=$row['image'];?>" target="_blank">unduh</a></td>
                     <td>
                         <a href="edit.php?id=<?=$row['id'];?>">edit</a>
                         <a href="delete.php?id=<?=$row['id'];?>">hapus</a>
