@@ -23,10 +23,11 @@
         <h2>Edit Produk</h2>
         <input type="hidden" name="id" value="<?=$row['id'];?>">
         <label for="name">Nama Produk:</label>
-        <input type="text" id="name" name="name" value="<?=$row['name'];?>" required><br>
-
+        <input type="text" id="name" name="name" value="<?=$row['name'];?>"><br>
         <label for="price">Harga:</label>
-        <input type="text" id="price" name="price" value="<?=$row['price'];?>" required><br>
+        <input type="text" id="price" name="price" value="<?=$row['price'];?>"><br>
+        <label for="image">Foto Produk:</label>
+        <input type="file" name="image" id="image" value="<?=$row['image'];?>"><br>
 
         <!-- You can add more fields as needed for your product editing form -->
 
